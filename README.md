@@ -4,3 +4,4 @@
 
 ![ImagemCadastro](https://user-images.githubusercontent.com/81427562/112649762-799bf780-8e29-11eb-9a50-bf0f8dfe3710.png)
 
+![ImagemTabela](https://user-images.githubusercontent.com/81427562/112649845-92a4a880-8e29-11eb-831c-d9df05beba07.png)
